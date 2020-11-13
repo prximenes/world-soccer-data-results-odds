@@ -4,4 +4,6 @@ Projeto da disciplina [IF697 — Introdução à Ciência dos Dados](https://pro
 
 Em andamento...
 
-*Notebook projeto: data_processing.ipynb
+*Notebook projeto 1: data_processing.ipynb
+
+*Notebook projeto 2: projeto2_classificação.ipynb
