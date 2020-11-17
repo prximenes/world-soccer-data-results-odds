@@ -6,4 +6,4 @@ Em andamento...
 
 *Notebook projeto 1: data_processing.ipynb
 
-*Notebook projeto 2: projeto2_classificação.ipynb
+*Notebook projeto 2: projeto2_classification.ipynb
